@@ -1,0 +1,14 @@
+form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 550px;
+}
+#loginsub{
+    background-color: rgba(240, 240, 240, 0.144);
+    border-radius: 10px;
+    border-color: rgba(126, 126, 126, 0.158);
+    color: rgba(75, 75, 75, 0.808);
+    padding: 6px 14px;
+}

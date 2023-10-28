@@ -1,0 +1,22 @@
+#centerbox{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+#filediv{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#filediv a{
+    text-decoration: none;
+    padding-top: 5px;
+    color: black;
+}
